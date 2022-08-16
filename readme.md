@@ -7,3 +7,4 @@
 ## Day 2
 
 - Add 2 Linked Lists - https://leetcode.com/problems/add-two-numbers
+- Longest substring without repeating characters - https://leetcode.com/problems/longest-substring-without-repeating-characters

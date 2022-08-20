@@ -14,3 +14,8 @@
 
 - Longest Palindrome Substring - https://leetcode.com/problems/longest-palindromic-substring
 - Zigzag Conversion - https://leetcode.com/problems/zigzag-conversion
+
+## Day 4
+
+- Reverse Integer - https://leetcode.com/problems/reverse-integer
+- String to Integer atoi - https://leetcode.com/problems/string-to-integer-atoi

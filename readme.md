@@ -23,3 +23,7 @@
 ## Day 5
 
 - Palindrome Integer - https://leetcode.com/problems/palindrome-number
+
+## Day 6
+
+- Container with most water - https://leetcode.com/problems/container-with-most-water
